@@ -2,8 +2,11 @@
 
 # ¡Buenas! 👋
 
-Aca van a ver un poco de mis proyectos personales. No subo proyectos laborales por cuestiones de confidencialidad.
-Ojalá les gusten, si tenés un proyecto en mente, te dejo mis redes al final 🙂
+Soy Mauricio Solís, estudiante de Licenciatura en Sistemas en la UNNE.
+Aca subo algunos  repos de mis proyectos personales.
+
+No subo proyectos laborales por cuestiones de confidencialidad, pero voy a ir cargando más cosas con el tiempo.
+Si tenés un proyecto en mente, estoy abierto a colaborar si me interesa el tema 🙂.
 
 (Proximamente ire cargando mas cosas)
 
