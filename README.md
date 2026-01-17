@@ -2,26 +2,40 @@
 
 # ¡Buenas! 👋
 
-Aca van a ver un poco de mis proyectos personles, no laborales por cuestiones de confidencialidad, espero que les gusten y si tienen un proyecto en mente esta mi dm y mis redes aca :)
+Aca van a ver un poco de mis proyectos personales. No subo proyectos laborales por cuestiones de confidencialidad.
+Ojalá les gusten, si tenés un proyecto en mente, te dejo mis redes al final 🙂
+
 (Proximamente ire cargando mas cosas)
+
+---
+
+## 🧩 Proyectos personales (En construccion)
+
+- 📌 **Proyecto 1:** _BD and analytics from restaurants_
+- 📌 **Proyecto 2:** _BD and analytics from night clubs_
+
+---
+
+### 🛠️ Tecnologías 
+
+<p>
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metabase-111111?style=for-the-badge&logo=metabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+
 ---
 
 ## 🌐 Redes y contacto
 
-[![Instagram](https://img.shields.io/badge/Instagram-@mauri015-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mmaurisolis/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-salvador-solis-679765220/)
-
----
-
-## 🧩 Proyectos personales (en construcción)
-
-- 📌 **Proyecto 1:** _BD and analitycs from restaurant`s_
-- 📌 **Proyecto 2:** _BD and analitycs from night club`s_
-
-
----
-
-### 🛠️ Tecnologías que me interesan
-- Desarrollo web
-- Analisis de datos 
-_ Automatización
+<a href="https://www.instagram.com/mmaurisolis/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@mmaurisolis-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mauricio-salvador-solis-679765220/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Mauricio%20Sol%C3%ADs-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
